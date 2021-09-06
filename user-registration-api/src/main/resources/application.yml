@@ -1,0 +1,9 @@
+spring:
+    application:
+        name: user-registration-api
+server:
+    port: 8080
+
+
+
+

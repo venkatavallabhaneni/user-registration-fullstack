@@ -1,0 +1,2 @@
+rootProject.name = 'user-registration-api'
+include ':user-registration-client', ':user-registration-api'
