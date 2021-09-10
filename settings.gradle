@@ -1,2 +1,4 @@
-rootProject.name = 'user-registration-api'
-include ':user-registration-client', ':user-registration-api'
+rootProject.name = 'user-registration-fullstack'
+include ':user-registration-client', ':user-registration-api','functional-tests'
+
+
